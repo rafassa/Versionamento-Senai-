@@ -1,3 +1,6 @@
+> Nome:Rafael Andrade Pereira Leite
+> Data: 19/02/2025
+
 # SPRINT BACKLOG
 
 Foram definidas dentro do product backlog quatro historias demarcadas por: ID (número); no sprint planning foi definido que apenas 
